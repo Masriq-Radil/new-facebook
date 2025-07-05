@@ -1,0 +1,77 @@
+body{
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  margin: 0;
+}
+h1{
+    font-size: 60px;
+    font-weight: 700;
+    color: rgb(39, 102, 219);
+    
+}
+.para{
+    font-size: 30px;
+}
+.main{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+}
+.first-div{
+    padding-left: 10%;
+    padding-top: 10%; 
+}
+.sec-div{
+    margin-top: 10%;
+    margin-right: 40px;
+    padding: 30px;
+    height: 285px;
+    width: 350px;
+    box-shadow: 5px 5px 20px gray;
+    border-radius: 10px;
+    text-align: center;
+}
+.email{
+    height: 45px;
+    width: 350px;
+    margin-bottom: 15px;
+    border-radius: 7px;
+    border-color: rgb(219, 224, 242);
+    
+}
+.pass{
+    height: 45px;
+    width: 350px;
+    margin-bottom: 15px;
+    border-radius: 7px;
+    border-color: rgb(219, 224, 242);
+}
+.btn{
+    height: 45px;
+    width: 360px;
+    margin-bottom: 15px;
+    background-color: rgb(39, 102, 219);
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 7px;
+    border: none;
+    
+}
+.anchor{
+    text-decoration: none;
+}
+.sec-btn{
+    margin-top: 35px;
+    height: 47px;
+    width: 200px;
+    background-color: rgb(9, 194, 9);
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 7px;  
+    border: none;  
+}
+.sec-para{
+    margin-top: 60px;
+}
